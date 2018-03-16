@@ -2,7 +2,7 @@
   "name": "finally",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^3.2.2",
+    "@rails/webpacker": "^3.3.1",
     "babili": "^0.1.4",
     "bootstrap": "^4.0.0",
     "bourbon": "^5.0.0",
@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "popper.js": "^1.12.9",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "2.11.2"
   }
 }

@@ -2,7 +2,8 @@
   "name": "finally",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^3.3.1"
+    "@rails/webpacker": "^3.3.1",
+    "babel-preset-babili": "^0.1.4"
   },
   "devDependencies": {
     "babili": "^0.1.4",

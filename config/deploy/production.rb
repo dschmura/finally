@@ -1,5 +1,5 @@
 
-  server "159.203.3.130"", user: 'deployer', roles: %w{app db web}
+  server "159.203.3.130", user: 'deployer', roles: %w{app db web}
   set :stage, :production
   set :branch, :master
   set :deploy_user, "deployer"

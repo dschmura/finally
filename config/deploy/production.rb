@@ -6,5 +6,6 @@
   set :deploy_to, "/home/#{fetch(:deploy_user)}/apps/finally"
   set :branch, 'master'
   set :rails_env, 'production'
+  set :node_env, 'production'
   set :puma_env, "production"
   set :puma_conf, "#{shared_path}/config/puma.rb"
